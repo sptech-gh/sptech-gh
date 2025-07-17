@@ -6,7 +6,7 @@
 
  🔭 I’m currently working on [SaaS Product](prosperami.io)
 
- 🌱 I’m currently learning **SaaS,javaScript, React, Next.js,**
+ 🌱 I’m currently learning **SaaS,Laravel, React, Next.js,**
 
  👨‍💻 All of my projects are available at [prosperami.io](prosperami.io)
 
