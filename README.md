@@ -1,10 +1,10 @@
 
  <h1 align="center">Hi 👋, I'm Prosper Ami</h1>
-<h3 align="center">A passionate student of full-stack developer from Ghana</h3>
+<h3 align="center">A passionate student of full-stack development, Machine Learning and AI from Ghana</h3>
 
 
 
- 🔭 I’m currently working on [SaaS Product](prosperami.io)
+ 🔭 I’m currently working on [SaaS Product](https://africare-cloud.vercel.app/login)
 
  🌱 I’m currently learning **SaaS,Laravel, React, Next.js,**
 
