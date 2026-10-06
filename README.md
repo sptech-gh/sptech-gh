@@ -2,9 +2,11 @@
 
 ### Software Developer & Digital Product Builder | Kumasi, Ghana
 
-I build practical technology that solves real problems — from hospital management systems and school platforms to digital marketplaces and AI-powered applications.
+I build practical technology that solves real problems — from hospital management systems 
+and school platforms to digital marketplaces and AI-powered applications.
 
-**Currently:** Founder & Lead Developer at SPtech Ghana | Building EduIntel, EduSankofa, and GHData Market
+Currently: Founder & Lead Developer at [SPtech Ghana](https://sptech.eu.org) | Building [EduIntel](https://eduintel.com), 
+[EduSankofa](https://edusankofa.com), [GHData Market](https://ghdatamarket.com) and [Reddy HMS]() 
 
 ---
 
@@ -25,7 +27,8 @@ I work with businesses and organizations across Ghana to build:
 
 📧 **Open for projects:** [sedempee@gmail.com](mailto:sedempee@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/prosper-ami-469037a4](https://www.linkedin.com/in/prosper-ami-469037a4)  
-🌐 **Portfolio:** [(https://paportfolio-drab.vercel.app/)]
+🌐 **Portfolio:** [Prosper Ami](https://paportfolio-drab.vercel.app/)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -57,10 +60,6 @@ Hospital management system with patient records, billing, pharmacy and lab modul
 School management platform for private basic schools in Ghana.  
 `Next.js` `TypeScript` `React`
 
-### [💰 GHData Market](https://github.com/sptech-gh/ghdata-market)
-Digital marketplace for mobile data and services with payment integration.  
-`Node.js` `React` `MongoDB`
-
 ### [🤖 Customer Ticket Classifier](https://github.com/sptech-gh/Thrive_Internship_ML_A)
 ML model using supervised learning to automate support ticket routing.  
 `Python` `Scikit-learn` `Machine Learning`
@@ -69,17 +68,12 @@ ML model using supervised learning to automate support ticket routing.
 NLP-based recommendation engine analyzing hotel reviews.  
 `Python` `NLTK` `Scikit-learn` `NLP`
 
-### [🚚 AVAR Logistics](https://avar-logistics-africa.vercel.app/)
-Web platform for logistics company operations and customer engagement.  
-`React` `Next.js`
-
 ---
 
 ## 📈 GitHub Stats
 
-![Prosper's GitHub stats](https://github-readme-stats.vercel.app/api?username=sptech-gh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E09B3D&icon_color=E09B3D&text_color=F5F5F0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sptech-gh&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E09B3D&text_color=F5F5F0)
+![Prosper's GitHub stats](https://github-readme-stats.vercel.app/api?username=sptech-gh&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sptech-gh&layout=compact&theme=dark)
 
 ---
 
@@ -88,17 +82,6 @@ Web platform for logistics company operations and customer engagement.
 - Advanced LLM integration and fine-tuning
 - Cloud infrastructure (AWS, Azure)
 - Real-time data processing pipelines
-- System architecture at scale
-
----
-
-## 🌍 Impact
-
-Building technology solutions across:
-- 🏥 **Healthcare** — Improving hospital operations and patient care workflows
-- 📚 **Education** — Supporting schools and students across Ghana
-- 💼 **Commerce** — Enabling digital business and payments
-- 🤖 **AI/ML** — Making intelligent systems accessible and practical
 
 ---
 
@@ -106,16 +89,3 @@ Building technology solutions across:
 
 ---
 
-<div align="center">
-
-### Let's Build Something Together
-
-[Email](mailto:sedempee@gmail.com) • [LinkedIn](https://www.linkedin.com/in/prosper-ami-469037a4) • [Portfolio](https://prosperami.dev)
-
-*Building practical technology that solves real problems*
-
-</div>
-
----
-
-*Last updated: October 2026*
