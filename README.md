@@ -49,7 +49,7 @@ I work with businesses and organizations across Ghana to build:
 
 ## 📊 Featured Projects
 
-### [🏥 Reddy HMS](https://github.com/sptech-gh/reddy-hms)
+### [🏥 Reddy HMS](https://github.com/sptech-gh/AfriMed-HMS)
 Hospital management system with patient records, billing, pharmacy and lab modules.  
 `PHP` `CodeIgniter` `MySQL` `Bootstrap`
 
